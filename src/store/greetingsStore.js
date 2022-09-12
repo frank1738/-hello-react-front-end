@@ -1,8 +1,7 @@
 import thunk from 'redux-thunk';
-import { createStore } from 'redux';
-import { applyMiddleware } from 'redux';
+import { createStore, applyMiddleware } from 'redux';
 
-export const greetingReducer = (state = 'lalo', action) => {
+export const greetingReducer = (state = '', action) => {
   switch (action.type) {
     case 'load':
       state = action.playload;
