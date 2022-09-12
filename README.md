@@ -1,62 +1,55 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Rails-front-end-blueviolet)
 
-# Project Name
+# hello rails front end
 
-> Description the project.
+- Display random greetings from rails api.
 
+- [Back-end](https://github.com/frank1738/hello-rails-back-end.git)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- React
+- Redux
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
+`https://github.com/frank1738/-hello-react-front-end.git`
 
 ### Install
 
+after cloning the repo run
+`npm install`
+
 ### Usage
+
+run
+`npm start` for devlopment
+`npm run build` for production code
 
 ### Run tests
 
-### Deployment
+- `npx stylelint "**/*.{css,scss}"` for CSS check.
+- `npx stylelint "**/*.{css,scss}" --fix` to fix JS issues if found.
+- `npx eslint .` for JS check.
+- `npx eslint . --fix` to fix JS issues if found.
 
+👤 **Author**
 
+## Frankline osoro
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@frank1738](https://github.com/frank1738)
+- Twitter: [@frankhiggins08](https://twitter.com/frankhiggins08)
+- LinkedIn: [Frankline Osoro](http://www.linkedin.com/in/frankline-osoro-b526ba18b)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/frank1738/-hello-react-front-end/issues).
 
 ## Show your support
 
@@ -64,12 +57,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse: [microverse community](https://github.com/microverseinc)
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT) licensed.
